@@ -4,7 +4,7 @@ Regular Text.
 
 * bullet 1
 * bullet 2
-*bullet with no space
+* bullet corrected
 
 [Link to Google](http://www.google.com)
 
